@@ -2,6 +2,7 @@
 Pomodoro Timer - Tracks and allows you to time your pomodoros, and 5-minute breaks. 
 
 Skills/Components Used: C++, Piezo, LCD, LED, switches
+
 Key Components: 
   - Timer of 25 minutes that counts down (or up)
   - When one pomodoro is done, it makes a beep sound, and the LED goes from the red light being on to the green light being on
