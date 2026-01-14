@@ -1,5 +1,7 @@
 # pomodoro-timer
-Pomodoro Timer - Arduino based. Tracks and allows you to time your pomodoros, and 5-minute breaks. 
+Pomodoro Timer - Arduino based. Tracks and allows you to time your pomodoros, and 5-minute breaks.  
+
+Try it yourself: https://www.tinkercad.com/things/3IZWw31l3rj-pomodoro-timer
 
 ## Features:
 ⭐ 25 minute focus timer  
