@@ -16,16 +16,16 @@ LiquidCrystal lcd(12, 11, 5, 4, 3, 2);	// which pins to communicate with
 
 // ** CONSTANTS AND VARIABLES **
 
+/*
 // INTERVALS - TESTING ----------------------------- !!
 const unsigned long pomodoroInterval = 5 * 1000UL;
 const unsigned long restInterval = 3 * 1000UL;
+*/
 
-/*
 // Intervals 
 // Note: unsigned long - non-negative integers, prevents possible error with large time values
 const unsigned long pomodoroInterval = 25 * 60 * 1000UL;
 const unsigned long restInterval = 5 * 60 * 1000UL;
-*/
 
 // Pomodoro Switch
 const int switchPinP = 6;
